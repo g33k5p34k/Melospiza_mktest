@@ -1,7 +1,7 @@
-# McDonald-Kreitman Test for Melospiza melanogenesis genes 
+# McDonald-Kreitman Test for *Melospiza* melanogenesis genes 
 Code for running the McDonald-Kreitman Test (McDonald & Kreitman, 1991) on Song Sparrow melanogenesis genes for Oliver Brown et al (in prep). 
 
-This script is custom-written for this specific instance (2 Melospiza melodia maxima individuals and 1 outgroup Melospiza georgiana), but if there is sufficient interest, I can rewrite the script for more general use. 
+This script is custom-written for this specific instance (2 *Melospiza melodia maxima* individuals and 1 outgroup *Melospiza georgiana*), but if there is sufficient interest, I can rewrite the script for more general use. 
 
 The core math for this script was adapted from the approach implemented by Li and Fu (2003) in NeutralityTest. 
 
